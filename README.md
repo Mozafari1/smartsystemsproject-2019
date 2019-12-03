@@ -1,5 +1,5 @@
 # smart-system--DFSS3101- 
-All this code is written by Rahmat Mozafari
+All this code is written by Rahmat Mozafari.
 Feel free to use it if you needed 
 
 
